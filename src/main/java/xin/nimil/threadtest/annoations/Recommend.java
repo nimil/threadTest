@@ -6,7 +6,7 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * 安全的
+ * 推荐
  * @Author:nimil e-mail:nimilgg@qq.com
  * @Date:2019/3/13
  * @Time:21:55
